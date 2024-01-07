@@ -1,0 +1,52 @@
+/* header Section Styles */
+/* header {
+    background-image: url('../resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin: 40px 200px 80px 0px;
+}
+
+.header-title-1 {
+    text-align: center;
+    color: #fff;
+    font-size: 32px;
+    font-weight: 400px;
+}
+.header-title-2 {
+    color: #fff;
+    font-size: 50px;
+    font-weight: 900; 
+    width: 350px;
+    align-items: center;
+} */
+
+/* body Section Styles */
+/* Section-1 */
+
+.discount{
+    color: #f00;
+    font-size: 80px;
+    font-weight: 700px;
+    text-align: center;
+}
+.text-1{
+    text-align: center;
+    color: #f00;
+    font-size: 20px;
+    font-weight: 500px;
+}
+.text-2{
+    text-align: center;
+    color: #070211;
+    font-size: 40px;
+    font-weight: 700px;
+}
+.happy-picture{
+    width: 830px;
+    height: 500px;
+    padding:0px 399px 0px 300px;
+}
+
+/* Section-2 */
+
