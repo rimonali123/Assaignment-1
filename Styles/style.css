@@ -85,3 +85,32 @@
     width: 320px;
     height: 465px;
 }
+
+/* Section-3 Styles */
+
+.section-3{
+   background-color:rgb(245, 223, 239);
+   width: 1320px;
+   height: 400px;
+   /* padding: 100px 385px 214px 385px ; */
+   text-align: center;
+   padding-top: 50px;
+}
+.red{
+    color: #f00;
+}
+.text-5{
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 40px;
+}
+.red-button{
+    background-color: #f00;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+    gap :10px;
+    padding: 10px 30px;
+
+}
