@@ -24,40 +24,44 @@
 /* body Section Styles */
 /* Section-1 */
 
-.discount{
+.discount {
     color: #f00;
     font-size: 80px;
     font-weight: 700;
     text-align: center;
 }
-.text-1{
+
+.text-1 {
     text-align: center;
     color: #f00;
     font-size: 20px;
     font-weight: 500;
 }
-.text-2{
+
+.text-2 {
     text-align: center;
     color: #070211;
     font-size: 40px;
     font-weight: 700;
 }
-.happy-picture{
+
+.happy-picture {
     width: 830px;
     height: 500px;
-    padding:0px 399px 0px 300px;
+    padding: 0px 399px 0px 300px;
 }
 
 /* Section-2 */
 
-.section-2{
+.section-2 {
     background-image: url('../resources/Vectorrr.png');
     background-repeat: no-repeat;
     width: 1320px;
     height: 600px;
     display: flex;
 }
-.text-3{
+
+.text-3 {
     color: #fff;
     width: 600px;
     font-size: 60px;
@@ -65,21 +69,24 @@
     letter-spacing: 7px;
     padding: 50px 120px 0px 200px;
 }
-.text-4{
+
+.text-4 {
     color: rgb(252, 248, 248);
     width: 600px;
     font-size: 25px;
     font-weight: 400;
     padding: 0px 40px 0px 200px;
-   
+
 }
-.button{
-    color:#fff;
+
+.button {
+    color: #fff;
     font-size: 20px;
     font-weight: 700;
     padding: 0px 0px 0px 200px;
 }
-.picture{
+
+.picture {
     padding-top: 50px;
     justify-content: center;
     width: 320px;
@@ -88,29 +95,81 @@
 
 /* Section-3 Styles */
 
-.section-3{
-   background-color:rgb(245, 223, 239);
-   width: 1320px;
-   height: 400px;
-   /* padding: 100px 385px 214px 385px ; */
-   text-align: center;
-   padding-top: 50px;
+.section-3 {
+    background-color: rgb(245, 223, 239);
+    width: 1320px;
+    height: 400px;
+    /* padding: 100px 385px 214px 385px ; */
+    text-align: center;
+    padding-top: 50px;
 }
-.red{
+
+.red {
     color: #f00;
 }
-.text-5{
+
+.text-5 {
     font-size: 30px;
     font-weight: 600;
     line-height: 40px;
 }
-.red-button{
+
+.red-button {
     background-color: #f00;
     color: #fff;
     font-size: 20px;
     font-weight: 700;
     border: none;
-    gap :10px;
+    gap: 10px;
     padding: 10px 30px;
 
 }
+
+/* Section-4 Styles */
+.section-4 {
+    display: flex;
+    text-align: center;
+}
+
+.text-6 {
+    color: #f00;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.text-7 {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.text-8 {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400px;
+    width: 393px;
+    text-align: center;
+}
+
+.text-9 {
+    color: #f00;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+
+.text-10 {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    width: 276px;
+    /* line-height: 32px; */
+}
+
+/* .image-3{
+    width: 140px;
+    height: 140px;
+    align-items: center;
+} */
