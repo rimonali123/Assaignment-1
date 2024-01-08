@@ -1,5 +1,6 @@
 section {
-    margin: 80px 100px;
+    margin: 50px 100px;
+    
 }
 
 
@@ -16,6 +17,8 @@ header {
     height: 600px;
     padding: 50px 100px 0px 480px;
     /* margin: 40px 200px 80px 0px; */
+    margin: 0 auto;
+    
 }
 
 .header-title-1 {
@@ -33,10 +36,16 @@ header {
 
 /* body Section Styles */
 /* Section-1 */
+.section-1{
+    background-color: aqua;
+    width: 1320px;
+    height: 1000px;
+    margin: 0 auto;
+}
 
 .discount {
     color: #f00;
-    font-size: 80px;
+    font-size: 60px;
     font-weight: 700;
     text-align: center;
 }
@@ -69,6 +78,7 @@ header {
     width: 1320px;
     height: 600px;
     display: flex;
+    margin: 0 auto;
 }
 
 .text-3 {
@@ -112,6 +122,7 @@ header {
     /* padding: 100px 385px 214px 385px ; */
     text-align: center;
     padding-top: 50px;
+    margin: 0 auto;
 }
 
 .red {
@@ -137,22 +148,26 @@ header {
 
 /* Section-4 Styles */
 .section-4 {
+    background-color:#d4e7f1;
     display: flex;
-    text-align: center;
+    /* text-align: center; */
+    width: 1320px;
+    height: 480px;
+    margin: 0 auto;
 }
 
 .text-6 {
     color: #f00;
     font-size: 24px;
     font-weight: 500;
-    text-align: center;
+    /* text-align: center; */
 }
 
 .text-7 {
     color: #070211;
     font-size: 48px;
     font-weight: 900;
-    text-align: center;
+    /* text-align: center; */
 }
 
 .text-8 {
@@ -160,7 +175,7 @@ header {
     font-size: 20px;
     font-weight: 400px;
     width: 393px;
-    text-align: center;
+    /* text-align: center; */
 }
 
 .text-9 {
@@ -186,12 +201,7 @@ header {
 
 /* Section-5 Styles */
 
-/* .b{
-    background-image: url('../resources/Group\ 75.png');
-    background-repeat: no-repeat;
-    background-position: bottom;
-    background-position: left;
-} */
+
 .text-container-1 {
     text-align: center;
     gap: 50px;
@@ -228,11 +238,15 @@ header {
 }
 
 .section-5 {
+    background-color: aqua;
+    width: 1320px;
+    height: 500px;
     background-image: url('../resources/Rectangle\ 2.png');
     background-repeat: no-repeat;
     background-position: bottom;
     background-position: left;
     height: 1000px;
+    margin: 0 auto;
 }
 
 .a,
@@ -255,6 +269,12 @@ header {
 }
 
 /* Section-6 Styles */
+.section-6{
+    background-color: aqua;
+    width: 1320px;
+    height: 1170px;
+    margin: 0 auto;
+}
 .content-4 {
     color: #f00;
     font-size: 24px;
@@ -290,6 +310,7 @@ header {
     height: 450px;
     border-radius: 16px;
     padding: 80px 0px;
+    margin: 0 auto;
 }
 
 .content-7 {
@@ -341,6 +362,7 @@ header {
     height: 609px;
     
     padding: 100px;
+    margin: 0 auto;
 
 }
 
