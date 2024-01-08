@@ -157,6 +157,16 @@ header {
     height: 480px;
     margin: 0 auto;
 }
+.t-text{
+    padding-right: 70px;
+}
+.ellips{
+    padding-top: 70px;
+}
+.q-text{
+    text-align: right;
+    padding-left: 50px;
+}
 
 .text-6 {
     color: #f00;
