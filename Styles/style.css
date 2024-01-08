@@ -105,7 +105,7 @@ header {
     font-size: 20px;
     font-weight: 700;
     background-color: black;
-    margin-left: 200px;
+    margin-left: 250px;
     border: none;
 }
 
@@ -375,12 +375,15 @@ header {
 
 .upper-text {
     display: flex;
+    
+    
 }
 
 .c-text {
     font-size: 24px;
     font-weight: 500;
-    padding-top: 100px;
+    text-align: left;
+    width: 375px;
     padding-left: 100px;
 }
 
@@ -388,14 +391,16 @@ header {
     font-size: 24px;
     font-weight: 500;
     text-align: right;
-    padding-top: 70px;
-    padding-left: 700px;
+    padding-left: 45%;
 }
 
 .icon {
     text-align: center;
 }
-
+.iconic{
+    gap: 20px;
+    padding: 24px;
+}
 .l {
     display: flex;
 }
