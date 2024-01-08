@@ -1,6 +1,6 @@
 section {
     margin: 50px 100px;
-    
+
 }
 
 
@@ -18,14 +18,14 @@ header {
     /* padding: 0px 0px 0px 0px; */
     /* margin: 40px 200px 80px 0px; */
     margin: 0 auto;
-    
+
 }
 
 .header-title-1 {
     color: #fff;
     font-size: 60px;
     font-weight: 400;
-    padding:80px 0px 0px 450px;
+    padding: 80px 0px 0px 450px;
 }
 
 .header-title-2 {
@@ -33,12 +33,12 @@ header {
     font-size: 90px;
     font-weight: 900;
     width: 632px;
-    padding:0px 0px 0px 450px;
+    padding: 0px 0px 0px 450px;
 }
 
 /* body Section Styles */
 /* Section-1 */
-.section-1{
+.section-1 {
     background-color: #fff;
     width: 1320px;
     height: 1000px;
@@ -150,22 +150,33 @@ header {
 
 /* Section-4 Styles */
 .section-4 {
-    background-color:#fff;
+    background-color: #fff;
     display: flex;
     /* text-align: center; */
     width: 1320px;
     height: 480px;
     margin: 0 auto;
 }
-.t-text{
-    padding-right: 70px;
+
+.t-text {
+    /* padding-right: 40px; */
 }
-.ellips{
-    padding-top: 70px;
+
+.ellips {
+    /* padding-top: 50px;  */
+    border: 7px solid #f00;
+    border-radius: 100%;
+    /* width: 100%; */
+    /* height: 100%; */
+    /* width: 463px; */
+    /* height: 463px; */
+    padding: 50px;
+
 }
-.q-text{
+
+.q-text {
     text-align: right;
-    padding-left: 50px;
+    /* padding-left: 30px; */
 }
 
 .text-6 {
@@ -206,7 +217,7 @@ header {
 }
 
 /* Section-5 Styles */
-.section-5{
+.section-5 {
     background-color: #fff;
     width: 1320px;
     height: 889px;
@@ -214,30 +225,35 @@ header {
     background-image: url('../resources/Rectangle\ 2.png');
     background-repeat: no-repeat;
     background-position: bottom;
-    
+
 }
-.text-r{
+
+.text-r {
     text-align: center;
 
 }
-.s-text{
+
+.s-text {
     color: #070211;
     font-size: 24px;
     font-weight: 500;
 }
-.b-text{
+
+.b-text {
     color: #070211;
     font-size: 50px;
     font-weight: 900;
 }
-.p-text{
+
+.p-text {
     color: rgba(7, 2, 17, 0.60);
     font-size: 20px;
     font-weight: 500px;
     width: 660px;
     padding-left: 300px;
 }
-.im{
+
+.im {
     background-image: url('../resources/Rectangle\ 1.png');
     background-repeat: no-repeat;
     background-position: bottom;
@@ -246,21 +262,23 @@ header {
     width: 1320px;
     display: flex;
     padding-top: 10px;
-    
+
 }
-.itop-1{
+
+.itop-1 {
     height: 585px;
     width: 50%;
     /* padding-top: 200px; */
 }
 
 /* Section-6 Styles */
-.section-6{
+.section-6 {
     background-color: #fff;
     width: 1320px;
     height: 1170px;
     margin: 0 auto;
 }
+
 .content-4 {
     color: #f00;
     font-size: 24px;
@@ -283,6 +301,12 @@ header {
 .all-img {
     display: flex;
     gap: 20px;
+}
+.hover:hover{
+    border: solid blueviolet;
+    border-radius: 16px;
+    cursor: pointer;
+    
 }
 
 
@@ -346,50 +370,55 @@ header {
     background-color: #070211;
     width: 1520px;
     height: 609px;
-    
+
     padding: 100px;
     margin: 0 auto;
 
 }
 
-.upper-text{
+.upper-text {
     display: flex;
 }
-.c-text{
+
+.c-text {
     /* display: flex; */
     /* text-align: left; */
     /* width: 400px; */
-    font-size: 24px; 
+    font-size: 24px;
     font-weight: 500;
     padding-top: 100px;
-    padding-left: 100px ;
+    padding-left: 100px;
 }
-.i-text{
+
+.i-text {
     /* text-align: right;
     width: 400px; */
-    font-size: 24px; 
+    font-size: 24px;
     font-weight: 500;
     text-align: right;
     padding-top: 70px;
-    padding-left: 700px ;
+    padding-left: 700px;
 }
 
 .icon {
     text-align: center;
 }
-.l{
+
+.l {
     display: flex;
 }
-.copyright{
+
+.copyright {
     padding-top: 100px;
-    padding-left: 100px ;
-    font-size: 24px; 
+    padding-left: 100px;
+    font-size: 24px;
     font-weight: 500;
 }
-.last-text{
+
+.last-text {
     text-align: right;
     padding-top: 100px;
-    padding-left: 850px ;
-    font-size: 24px; 
+    padding-left: 850px;
+    font-size: 24px;
     font-weight: 500;
 }
