@@ -103,7 +103,9 @@ header {
     color: #fff;
     font-size: 20px;
     font-weight: 700;
-    padding: 0px 0px 0px 200px;
+    background-color: black;
+    margin-left: 200px;
+    border: none;
 }
 
 .picture {
@@ -403,9 +405,14 @@ header {
 }
 
 .last-text {
+    color: #fff;
+    background-color: #070211;
     text-align: right;
     padding-top: 100px;
-    padding-left: 850px;
+    padding-left: 870px;
     font-size: 24px;
     font-weight: 500;
+    border: none;
+    height: 70px;
+    width: 210px;
 }
