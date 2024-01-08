@@ -1,23 +1,18 @@
+/* All body Styles */
+
 section {
     margin: 50px 100px;
 
 }
 
-
-
-
-
-
-
 /* header Section Styles */
+
 header {
     background-image:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),
     url('../resources/Banner\ Image.png');
     background-repeat: no-repeat;
     width: 1320px;
     height: 600px;
-    /* padding: 0px 0px 0px 0px; */
-    /* margin: 40px 200px 80px 0px; */
     margin: 0 auto;
 
 }
@@ -38,7 +33,9 @@ header {
 }
 
 /* body Section Styles */
+
 /* Section-1 */
+
 .section-1 {
     background-color: #fff;
     width: 1320px;
@@ -100,7 +97,6 @@ header {
     font-size: 25px;
     font-weight: 400;
     padding: 0px 40px 0px 200px;
-
 }
 
 .button {
@@ -119,11 +115,11 @@ header {
 
 /* Section-3 Styles */
 
+
 .section-3 {
     background: rgba(255, 0, 0, 0.05);
     width: 1320px;
     height: 400px;
-    /* padding: 100px 385px 214px 385px ; */
     text-align: center;
     padding-top: 50px;
     margin: 0 auto;
@@ -151,48 +147,43 @@ header {
 }
 
 /* Section-4 Styles */
+
 .section-4 {
     background-color: #fff;
     display: flex;
-    /* text-align: center; */
     width: 1320px;
     height: 480px;
     margin: 0 auto;
 }
 
 .t-text {
-    /* padding-right: 40px; */
+    text-align: left;
+    padding: 50px;
+    padding-left: 0px;
 }
 
 .ellips {
-    /* padding-top: 50px;  */
     border: 7px solid #f00;
     border-radius: 100%;
-    /* width: 100%; */
-    /* height: 100%; */
-    /* width: 463px; */
-    /* height: 463px; */
     padding: 50px;
 
 }
 
 .q-text {
-    text-align: right;
-    /* padding-left: 30px; */
+    text-align: left;
+     padding-left: 70px
 }
 
 .text-6 {
     color: #f00;
     font-size: 24px;
     font-weight: 500;
-    /* text-align: center; */
 }
 
 .text-7 {
     color: #070211;
     font-size: 48px;
     font-weight: 900;
-    /* text-align: center; */
 }
 
 .text-8 {
@@ -200,7 +191,6 @@ header {
     font-size: 20px;
     font-weight: 400px;
     width: 393px;
-    /* text-align: center; */
 }
 
 .text-9 {
@@ -215,10 +205,10 @@ header {
     font-size: 20px;
     font-weight: 400;
     width: 276px;
-    /* line-height: 32px; */
 }
 
 /* Section-5 Styles */
+
 .section-5 {
     background-color: #fff;
     width: 1320px;
@@ -270,10 +260,10 @@ header {
 .itop-1 {
     height: 585px;
     width: 50%;
-    /* padding-top: 200px; */
 }
 
 /* Section-6 Styles */
+
 .section-6 {
     background-color: #fff;
     width: 1320px;
@@ -383,9 +373,6 @@ header {
 }
 
 .c-text {
-    /* display: flex; */
-    /* text-align: left; */
-    /* width: 400px; */
     font-size: 24px;
     font-weight: 500;
     padding-top: 100px;
@@ -393,8 +380,6 @@ header {
 }
 
 .i-text {
-    /* text-align: right;
-    width: 400px; */
     font-size: 24px;
     font-weight: 500;
     text-align: right;
