@@ -4,7 +4,7 @@ header {
     background-repeat: no-repeat;
     width: 1320px;
     height: 600px;
-   padding:50px 100px 0px 480px; 
+    padding: 50px 100px 0px 480px;
     /* margin: 40px 200px 80px 0px; */
 }
 
@@ -13,10 +13,11 @@ header {
     font-size: 60px;
     font-weight: 400;
 }
+
 .header-title-2 {
     color: #fff;
     font-size: 90px;
-    font-weight: 900; 
+    font-weight: 900;
     width: 632px;
 }
 
@@ -95,7 +96,7 @@ header {
 /* Section-3 Styles */
 
 .section-3 {
-    background-color: rgb(245, 223, 239);
+    background: rgba(255, 0, 0, 0.05);
     width: 1320px;
     height: 400px;
     /* padding: 100px 385px 214px 385px ; */
@@ -181,56 +182,114 @@ header {
     background-position: bottom;
     background-position: left;
 } */
-.content{
+.text-container-1 {
     text-align: center;
     gap: 50px;
 }
-.content-1{
+
+.content-1 {
     color: #070211;
     font-size: 24px;
     font-weight: 500;
 }
-.content-2{
+
+.content-2 {
     font-size: 72px;
     font-weight: 900;
 }
-.content-3{
+
+.content-3 {
     color: rgba(7, 2, 17, 0.60);
-    width: 568px; 
+    width: 568px;
     font-size: 20px;
     font-weight: 500;
     /* text-align: center; */
-    padding:0px 500px;
+    padding: 0px 500px;
 }
-.a{
+
+.a {
     background-image: url('../resources/Rectangle\ 1.png');
     background-repeat: no-repeat;
     background-position: bottom;
-   background-position: right;
+    background-position: right;
     margin: 0px;
     height: 429px;
     width: 433px;
 }
-.section-5{
-    background-image: url('../resources/Rectangle\ 2.png'); 
+
+.section-5 {
+    background-image: url('../resources/Rectangle\ 2.png');
     background-repeat: no-repeat;
-    background-position:bottom;
+    background-position: bottom;
     background-position: left;
     height: 1000px;
 }
 
-.a, .section-5{
+.a,
+.section-5 {
     display: flex;
 }
 
-.images{
-    
+.images {
+
     height: 229px;
     width: 1320px;
-    display: flex; 
+    display: flex;
     align-items: center;
 }
-.img-2, .img-3{
+
+.img-2,
+.img-3 {
     height: 206px;
     width: 206px;
+}
+
+/* Section-6 Styles */
+.content-4 {
+    color: #f00;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.content-5 {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.content-6 {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    width: 800px;
+}
+
+.section-7 {
+    background: rgba(255, 0, 0, 0.05);
+    text-align: center;
+    width: 1320px;
+    height: 616px;
+    border: 16px;
+}
+
+.search-box {
+    height: 72px;
+    width: 648px;
+    border-radius: 50px;
+    border: none;
+}
+
+.butn {
+    height: 70px;
+    width: 210px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    border: none;
+}
+
+#butn-name {
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
 }
