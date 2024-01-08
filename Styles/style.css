@@ -39,7 +39,7 @@ header {
 /* body Section Styles */
 /* Section-1 */
 .section-1{
-    background-color: aqua;
+    background-color: #fff;
     width: 1320px;
     height: 1000px;
     margin: 0 auto;
@@ -150,7 +150,7 @@ header {
 
 /* Section-4 Styles */
 .section-4 {
-    background-color:#d4e7f1;
+    background-color:#fff;
     display: flex;
     /* text-align: center; */
     width: 1320px;
@@ -195,84 +195,58 @@ header {
     /* line-height: 32px; */
 }
 
-/* .image-3{
-    width: 140px;
-    height: 140px;
-    align-items: center;
-} */
-
 /* Section-5 Styles */
-
-
-.text-container-1 {
-    text-align: center;
-    gap: 50px;
+.section-5{
+    background-color: #fff;
+    width: 1320px;
+    height: 889px;
+    margin: 0 auto;
+    background-image: url('../resources/Rectangle\ 2.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    
 }
+.text-r{
+    text-align: center;
 
-.content-1 {
+}
+.s-text{
     color: #070211;
     font-size: 24px;
     font-weight: 500;
 }
-
-.content-2 {
-    font-size: 72px;
+.b-text{
+    color: #070211;
+    font-size: 50px;
     font-weight: 900;
 }
-
-.content-3 {
+.p-text{
     color: rgba(7, 2, 17, 0.60);
-    width: 568px;
     font-size: 20px;
-    font-weight: 500;
-    /* text-align: center; */
-    padding: 0px 500px;
+    font-weight: 500px;
+    width: 660px;
+    padding-left: 300px;
 }
-
-.a {
+.im{
     background-image: url('../resources/Rectangle\ 1.png');
     background-repeat: no-repeat;
     background-position: bottom;
     background-position: right;
-    margin: 0px;
-    height: 429px;
-    width: 433px;
-}
-
-.section-5 {
-    background-color: aqua;
-    width: 1320px;
-    height: 500px;
-    background-image: url('../resources/Rectangle\ 2.png');
-    background-repeat: no-repeat;
-    background-position: bottom;
-    background-position: left;
-    height: 1000px;
-    margin: 0 auto;
-}
-
-.a,
-.section-5 {
-    display: flex;
-}
-
-.images {
-
-    height: 229px;
+    height: 400px;
     width: 1320px;
     display: flex;
-    align-items: center;
+    padding-top: 10px;
+    
 }
-
-.img-2,
-.img-3 {
-    height: 206px;
-    width: 206px;
+.itop-1{
+    height: 585px;
+    width: 50%;
+    /* padding-top: 200px; */
 }
 
 /* Section-6 Styles */
 .section-6{
-    background-color: aqua;
+    background-color: #fff;
     width: 1320px;
     height: 1170px;
     margin: 0 auto;
