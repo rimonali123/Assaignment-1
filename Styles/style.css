@@ -333,7 +333,9 @@ header {
 }
 
 .search-button {
-    border-collapse: collapse;
+    /* border-collapse: collapse; */
+    padding: 0px;
+    gap: 0px;
 }
 
 .search-box {
@@ -344,7 +346,7 @@ header {
 }
 
 .butn {
-    height: 70px;
+    height: 72px;
     width: 210px;
     border-radius: 0px 50px 50px 0px;
     background: #F00;
